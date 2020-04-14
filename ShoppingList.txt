@@ -2,6 +2,9 @@ Shooping List:
 
 Apples
 Oranges
+Bananas
 Cherries
 Carrots
 Cereal
+Cucumbers
+Raddishes
